@@ -1,0 +1,14 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "mysql": "^2.8.0",
+    "sequelize": "^3.5.1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/datasweeper/node-chat"
+  }
+}
